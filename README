@@ -1,0 +1,9 @@
+Bare-bones version of the MRM LaTeX template (MRM-AMA.tex 2023 version). Tested with mactex version 2024.0312, installed via homebrew, eg brew install --cask mactex.
+
+To compile to PDF:
+
+make
+
+To clean up temp files:
+
+make clean
