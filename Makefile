@@ -2,7 +2,7 @@ dummy:
 	latexmk -pdf
 
 clean:
-	latexmk -c
+	latexmk -C
 	rm -f main.pdf
 	rm -f main.bbl
 	rm -f main.pag
